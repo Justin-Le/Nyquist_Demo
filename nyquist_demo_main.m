@@ -1,0 +1,8 @@
+nyquist_demo('sine', 1)
+nyquist_demo('sine', 5)
+nyquist_demo('sine', 10)
+nyquist_demo('sine', 50)
+nyquist_demo('sinc', 1)
+nyquist_demo('sinc', 5)
+nyquist_demo('sinc', 10)
+nyquist_demo('sinc', 50)
